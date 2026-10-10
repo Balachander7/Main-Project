@@ -1,4 +1,4 @@
-# Workforce Ecosystem 360: Decoding Sourcing Channel Efficiency, Operational Productivity Ecosystems, Absenteeism Patterns and Predictive Attrition Retention Strategies
+## Workforce Ecosystem 360: Decoding Sourcing Channel Efficiency, Operational Productivity Ecosystems, Absenteeism Patterns and Predictive Attrition Retention Strategies
 
 An end-to-end People Analytics project analyzing talent acquisition efficiency, operational productivity, attendance patterns, and predictive attrition across a 1,000-record enterprise dataset using Python, Excel, and Power BI.
 
